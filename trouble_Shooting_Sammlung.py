@@ -6,6 +6,9 @@
 # Strg + k+ c
 # MacOS:
 # Command + k + c
+# Blockkommentar:
+# Shift + alt + a
+
 
 # 2
 # venv-Aktivieren: 

@@ -22,7 +22,14 @@
 # es siehr so aus: 
 # (venv) PS C:\Users\...\> 
 
-# 3
+# 3 
+# Creating Environments öffnen in VSCode
+# shift + Strg + p
+# Eingeben: 
+# python: Creating Environment
+# venv -> auswählen
+
+# 4
 # lxml-Package für Python installieren
 # in Powershell eingeben, welche Version für Python ist: 
 # py --version

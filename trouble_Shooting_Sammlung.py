@@ -4,6 +4,10 @@
 # Zeilenkommentar
 # Windows:
 # Strg + k+ c
+
+# auskommentieren:
+# Strg + k + u
+
 # MacOS:
 # Command + k + c
 # Blockkommentar:
